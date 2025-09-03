@@ -5,7 +5,7 @@ Welcome to CODE-A-പൂക്കളം, a creative coding challenge scheduled f
 
 
 ### Your Details
-- [Name] - [Branch] - [Semester]
+- Alka Devi - CS1 - S3
 
 
 
@@ -19,7 +19,7 @@ Brief description about your pookalam. What makes it special and different.
 
 
 ### Technologies Used 
-
+html, css
 
 ### Video explaining How you build the pookalam
 
